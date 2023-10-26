@@ -2,7 +2,6 @@ import openpyxl
 import PyPDF2
 import os 
 import re
-from src.validation import validation
 def extracao_lights():
 
     print(''' 
